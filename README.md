@@ -5,8 +5,10 @@
 - 📫 You can contact me with my [website](https://mohammad-hosein-shahpouri.github.io/Resume/)
 
 <a href="https://github.com/mohammad-hosein-shahpouri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&theme=dark&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-hosein-shahpouri&layout=compact&theme=dark" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&theme=dark&count_private=true&line_height=33" />
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-hosein-shahpouri&langs_count=4&theme=dark" />
 </a>
 
 
