@@ -4,9 +4,15 @@
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 You can contact me with my [website](https://mohammad-hosein-shahpouri.github.io/Resume/)
 
-[![Mohammad Hosein Shahpouri GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&theme=dark&count_private=true)](https://github.com/mohammad-hosein-shahpouri)
+<a href="https://github.com/mohammad-hosein-shahpouri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&theme=dark&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-hosein-shahpouri&layout=compact&theme=dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-hosein-shahpouri&layout=compact&theme=dark)](https://github.com/mohammad-hosein-shahpouri)
+
+<!-- [![Mohammad Hosein Shahpouri GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&theme=dark&count_private=true)](https://github.com/mohammad-hosein-shahpouri)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-hosein-shahpouri&layout=compact&theme=dark)](https://github.com/mohammad-hosein-shahpouri) -->
 
 <!---
 mohammad-hosein-shahpouri/mohammad-hosein-shahpouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
