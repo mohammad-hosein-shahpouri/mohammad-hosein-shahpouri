@@ -4,19 +4,20 @@
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 You can contact me with my [website](https://mohammad-hosein-shahpouri.github.io/Resume/)
 
-<a href="https://github.com/mohammad-hosein-shahpouri">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&theme=dark&count_private=true&line_height=33" />
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-hosein-shahpouri&langs_count=4&theme=dark" />
-</a>
 
+## 📊 My GitHub Statistics
 
-<!-- [![Mohammad Hosein Shahpouri GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&theme=dark&count_private=true)](https://github.com/mohammad-hosein-shahpouri)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-hosein-shahpouri&theme=highcontrast"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mohammad-hosein-shahpouri&layout=compact&theme=dark)](https://github.com/mohammad-hosein-shahpouri) -->
-
-<!---
-mohammad-hosein-shahpouri/mohammad-hosein-shahpouri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div align="center">
+    <br/>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad Hosein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad Hosein's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-hosein-shahpouri&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+    <br/>
+  </div>
+  <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+</details>
