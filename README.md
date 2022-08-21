@@ -6,7 +6,6 @@
 - 👀 I’m interested in coding for sure, watching movies and playing guitar
 - 🌱 I’m currently studying at Mohajer Technical and Vocational College
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 You can contact me with my [website](https://mohammad-hosein-shahpouri.github.io/Resume/)
 
 
 ## 🛠️ Skills and Technologies
@@ -49,9 +48,17 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div align="center">
     <br/>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad Hosein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad Hosein's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-hosein-shahpouri&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad Hosein's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammad-hosein-shahpouri&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammad Hosein's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-hosein-shahpouri&langs_count=8&layout=compact&theme=vision-friendly-dark&hide_border=true" height="192px"/></a>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 </details>
+
+## 🙋‍♂️ Connect with me
+
+<p align="center">
+    <a target="_blank" href="https://t.me/mohammad_hosein_shahpouri"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=white"/></a>
+    <a target="_blank" href="https://www.linkedin.com/in/mohammad-hosein-shahpouri/"><img alt="Linkedin" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a target="_blank" href="https://www.instagram.com/mohammad_hosein_shahpouri/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    
+</p>
