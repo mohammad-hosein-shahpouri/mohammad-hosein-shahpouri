@@ -3,10 +3,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-- 👀 I’m interested in coding for sure, watching movies and playing guitar
-- 🌱 I’m currently studying at Islamic Azad University
-- 💞️ I’m looking to collaborate on open-source projects
-
 ## 💻 My GitHub Statistics
 
 <div align="center">
